@@ -1,0 +1,77 @@
+|CTAG_1696151930_251846125_18392_0
+|ls
+|y "reg acc.py"
+|ls
+|y "reg acc.py"
+|y "reg acc.py"
+py "reg acc.py"
+|d D:\pr zalo
+|ls
+|s
+|ls
+py check_vail_zalo_group_link.py
+|y check_vaild_zalo_group_link.py
+|y check_vaild_zalo_group_link.py
+|y check_vaild_zalo_group_link.py
+|y check_vaild_zalo_group_link.py
+|ls
+|y
+cd D:\pr zalo
+|ls
+|y
+|ls
+|y check_vaild_zalo_group_link.py
+|y check_vaild_zalo_group_link.py
+|ls
+py check_vaild_zalo_group_link.py
+d:
+cd d:/tuc
+ls
+dir
+cd D:\TUC_v2.0-main
+|y tuc.py
+|ls
+|y
+|ls
+|y
+|ls
+|y tuc.py
+|y tuc.py
+|y tuc.py
+py tuc.py
+|y
+|y
+|d D:\TikDown
+|d D:\TikDown
+|ls
+|y tikdown.py
+py tikexpt
+|ls
+|y tikext.py
+|ls
+|y tikext.py
+|y
+|y tikext.py
+py tikdown.py
+cd D:\TikDown
+|ls
+py tikext.py
+|y
+curl
+curl --help
+|ip install moviepy
+python.exe -m pip install --upgrade pip
+pip uninstall moviepy
+|ip install moviepy
+from requests import get
+pip install moviepy
+|ls
+|y
+cd C:\Users\xxhoa\Downloads\tool_hoa_don\tool_hoa_don
+C:
+cls
+|ip install -r requirements.txt
+|ip install -r requirements.txt
+pip install -r requirements.txt
+py
+ping 104.148.5.104
